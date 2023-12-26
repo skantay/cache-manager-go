@@ -1,7 +1,3 @@
-Certainly! Below is a small README template for your Go caching project:
-
----
-
 # Caman: Simple Go Cache Manager
 
 Caman is a lightweight cache manager for Go that provides easy-to-use caching functionalities. It allows you to store and retrieve data in-memory, with options for automatic expiration, key renaming, and more.
